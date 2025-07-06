@@ -1,1 +1,1 @@
-export { Header } from './components/Header.tsx';
+export * from './components/Header';
